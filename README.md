@@ -1,5 +1,16 @@
+
+
+
+![Purple and Blue Futuristic Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/55e56e11-7d0b-41f7-aef0-c6538332c782)
+
+
+
 <h1 align="center">Heyyy 👋, welcome to my universe! I'm Leslye Nkwa, a.k.a DeepMind.</h1>
 <h3 align="center">Passionate about the Ikigai theory 🪂 & lifelong learner 📎. I love exploring knowledge, creativity, and innovation.</h3>
+
+![gif1](https://github.com/user-attachments/assets/831595e1-2f91-4957-84bb-eece459c4f3d)
+
+
 
 - 🎓 I learn **sectoral statistics , exploratory data analysis, GIS projects that are given at school.**
 - 👯 I am looking to collaborate on **Data Analysis Project**
