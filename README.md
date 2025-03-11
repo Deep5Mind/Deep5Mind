@@ -1,7 +1,7 @@
 
 ![Purple and Blue Futuristic Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/55e56e11-7d0b-41f7-aef0-c6538332c782)
 
-<h1 align="center">Heyyy 👋, welcome to my universe! I'm Leslye Nkwa, a.k.a DeepMind.</h1>
+<h1 align="center"> Welcome to my universe, I'm Leslye Nkwa.</h1>
 <h3 align="center">Future Statistician & economist </h3>
 <table>
   <tr>
@@ -10,16 +10,15 @@
     </td>
     <td valign="top">
       <ul>
-        <li>🎓 I learn sectoral statistics, exploratory data analysis, and work on GIS projects which are given at school</li>
-        <li>👯 I am looking to collaborate on Data Analysis Project</li>
-        <li>📫 How to contact me: leslyenkwa@gmail.com</li>
-        <li>⚡ Fun fact ^_^ I am a content creator on Instagramm about study, Pinterest about Mindset and LinkedIn</li>
+        <li> Learn and share</li>
+        <li> How to contact me: leslyenkwa@gmail.com</li>
+        <li> Fun fact ^_^ I am a content creator on Instagramm about study, Pinterest about Mindset and LinkedIn</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<h3 align="left">Let's connect✌️!</h3>
+<h3 align="left">Let's connect</h3>
 <p align="left">
   <a href="https://linkedin.com/in/leslyenkwatp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leslyenkwatp" height="30" width="40" /></a>
   <a href="https://pinterest.com/leslyenkwa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="pinterest" height="30" width="40" /></a>
