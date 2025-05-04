@@ -12,7 +12,7 @@
       <ul>
         <li> Learn and share</li>
         <li> How to contact me: leslyenkwa@gmail.com</li>
-        <li> Fun fact ^_^ I am a content creator on Instagramm about study, Pinterest about Mindset and LinkedIn</li>
+        <li> Fun fact ^_^ I am a content creator on Instagram about study, Pinterest about Mindset and LinkedIn</li>
       </ul>
     </td>
   </tr>
